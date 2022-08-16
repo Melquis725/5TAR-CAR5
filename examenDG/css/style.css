@@ -1,0 +1,104 @@
+.cont{
+    background-color: #fff; 
+    padding: 2rem;
+}
+.cont a{
+    width: 100%;
+    height: 100%;
+    text-decoration: none; 
+    color: #343a40;
+    text-align: center;
+}
+.cont .card-body{
+    background-color: #ececf6;
+}
+.cont .card{
+    overflow: hidden;
+}
+.cont .card img{
+    width: 100%;
+    height: 175px;
+    object-fit: cover;
+}
+.container h1{
+    text-align: center; 
+    font-weight: bolder; 
+    font-size: 2.5rem;
+    padding: 1rem 0;
+}
+.card{
+    width: 18rem;
+    cursor: pointer;
+}
+.card:hover {
+    box-shadow: 0 5px 5px  rgba(0, 0, 0, 0.4);
+    transition: 0.2s ease-in-out;
+}
+.nav-item:hover{
+    color: skyblue;
+}
+.col{
+    margin-bottom: 1.5rem;
+}
+.svg{
+    margin: 0 8px;
+    
+}
+.may{
+    height: 100vh;
+    background-color: #ececf6;
+}
+.may h1{
+    text-align: center;
+    padding-top: 2rem;
+    font-weight: bold;
+}
+.mel{
+     display: flex;
+     justify-content: center;
+     margin-top: 3rem;
+} 
+.carousel{
+    width: 55%;
+}
+.carousel-inner .d-block{
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+footer {
+    background: #343a40;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
+footer section {
+    float: right;
+    margin-right: 1rem;
+}
+footer a{
+    transition: color 0.3s ease;
+    color: #fff;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+#f a{
+    margin: 0 1rem;
+}
+#crd{
+    box-shadow: 0 5px 5px  rgba(0, 0, 0, 0.4);
+}
+#inicio .svg {
+    filter: invert(1);
+}
+.conte .card-img-top{
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+    overflow: hidden;
+}
+.conte .card .image{
+    width: 30px;
+}
